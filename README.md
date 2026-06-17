@@ -61,6 +61,7 @@ E-Commerce-Sales-Analysis/
 ---
 
 ## 📈 Power BI Dashboard Features
+![Power BI Dashboard](Screenshot%202026-06-17%20233043.png)
 - **Total Revenue by Month & Year** — Line chart showing revenue trend
 - **Total Revenue by Country** — World map visualization
 - **Top Products by Revenue** — Horizontal bar chart
